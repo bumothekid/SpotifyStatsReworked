@@ -1,0 +1,22 @@
+{
+  "devices" : [
+    {
+      "name" : "Macbook Pro",
+      "id" : "04c554ba0094d23a7765eb9f51b06a9d78c6159f",
+      "is_private_session" : false,
+      "type" : "Computer",
+      "volume_percent" : 23,
+      "is_active" : true,
+      "is_restricted" : false
+    },
+    {
+      "name" : "Echo Dot",
+      "id" : "db29c142-bb42-4286-bf56-f09d98bf1370_amzn_1",
+      "is_private_session" : false,
+      "type" : "Speaker",
+      "volume_percent" : 29,
+      "is_active" : false,
+      "is_restricted" : false
+    }
+  ]
+}

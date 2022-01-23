@@ -1,0 +1,46 @@
+{
+  "offset" : 0,
+  "next" : "https:\/\/api.spotify.com\/v1\/me\/top\/artists?limit=1&offset=1&time_range=short_term",
+  "limit" : 1,
+  "href" : "https:\/\/api.spotify.com\/v1\/me\/top\/artists?limit=1&offset=0&time_range=short_term",
+  "previous" : null,
+  "total" : 50,
+  "items" : [
+    {
+      "genres" : [
+        "emo rap",
+        "lgbtq+ hip hop"
+      ],
+      "images" : [
+        {
+          "url" : "https:\/\/i.scdn.co\/image\/ab6761610000e5eb6685f03de475c4efb27da3c4",
+          "width" : 640,
+          "height" : 640
+        },
+        {
+          "url" : "https:\/\/i.scdn.co\/image\/ab676161000051746685f03de475c4efb27da3c4",
+          "width" : 320,
+          "height" : 320
+        },
+        {
+          "url" : "https:\/\/i.scdn.co\/image\/ab6761610000f1786685f03de475c4efb27da3c4",
+          "width" : 160,
+          "height" : 160
+        }
+      ],
+      "id" : "2kCcBybjl3SAtIcwdWpUe3",
+      "external_urls" : {
+        "spotify" : "https:\/\/open.spotify.com\/artist\/2kCcBybjl3SAtIcwdWpUe3"
+      },
+      "followers" : {
+        "total" : 8533791,
+        "href" : null
+      },
+      "href" : "https:\/\/api.spotify.com\/v1\/artists\/2kCcBybjl3SAtIcwdWpUe3",
+      "popularity" : 87,
+      "type" : "artist",
+      "name" : "Lil Peep",
+      "uri" : "spotify:artist:2kCcBybjl3SAtIcwdWpUe3"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "refresh_token" : "AQD7exZ3-szCMhtkq8suMwFSPJ98MMlwMfTaLlMYItI8apubRII83dW0T89gBAY1faSch2FLy4azOoE0PxvdnZ1LMECeyUY1uSOO0faQ3cdiJWBU7HLgt-1NGCvdU4dCVfg",
+  
+  "scope" : "playlist-read-private playlist-read-collaborative user-follow-read playlist-modify-private user-read-email user-read-private user-library-read user-library-modify playlist-modify-public user-read-playback-state user-read-currently-playing user-read-recently-played user-read-playback-position user-top-read",
+  
+  "token_type" : "Bearer",
+  
+  "access_token" : "BQBHvU2_9AVY2ztrDsXSNP5Cl7jnCCS2MnLigQfogOfBBPrhSLH796CNtSpmtADf53lMyDnkCxZDYYj8YftJYnDdywZZEWHZ7q4soDF1jkB7zgC6xyki8tZrZUfyscu1NDk0LpWTEadHmlStZ7iaOdC6RvGshazWB43o6pZE1ehvLygRZPqrCRXBwISP27ehXapBRecVCcWLB7Tkwz4TYlaVMycPYY04hcM_rRTtkjM5oXLMK49BtAHUNMBURcvk7xR6oSKn6KuIbJ-80ZtLjJ_Qq9g6ZgxjOjUsdll0",
+  
+  "expires_in" : 3600
+}
