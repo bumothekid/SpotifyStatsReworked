@@ -14,8 +14,8 @@ class AuthManager {
     private var onRefreshBlocks = [((String) -> Void)]()
     
     struct Constants {
-        static let clientID = "c5c8d6550d2f4fe2959b9017ccdaacd4"
-        static let clientSecret = "c3144ff1aa954118b19d9e59ed80ea9f"
+        static let clientID = "HERE YOURS"
+        static let clientSecret = "HERE YOURS"
         static let tokenAPIURL = "https://accounts.spotify.com/api/token"
         static let redirectURI = "https://spotify.com"
         static let scopes = "user-read-recently-played,user-top-read,user-read-playback-position,user-read-playback-state,user-read-currently-playing,playlist-modify-public,playlist-modify-private,playlist-read-private,playlist-read-collaborative,user-follow-read,user-library-modify,user-library-read,user-read-private,user-read-email"
